@@ -1,8 +1,7 @@
 ﻿define({
   root: ({
     _widgetLabel: "Report示範",
-    label1: "這是示範 widget。",
-    label2: "這是可配置的。"
+ 	generateReport: "一般Report"
   }),
   "ar": 0,
   "cs": 0,
